@@ -13,7 +13,7 @@ O NARA é um grupo formado por discentes do curso de **Engenharia da Computaçã
 | **Júlio** | Administrador — Desenvolvimento e Gestão de Projetos |
 | **Carlos** | Marketing e Desenvolvimento Frontend |
 | **Bruno** | Comunicação e Desenvolvimento Backend |
-| **Ana Elise** | Desenvolvimento Backend |
+| **Ana Elisa** | Desenvolvimento Backend |
 
 ![Foto da equipe 1](foto-equipe1.jpeg)
 ---
